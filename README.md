@@ -10,7 +10,6 @@ This project features a **predictive machine learning model** to forecast the va
 
 * **Predictive Model:** Uses scikit-learn (**Random Forest Regressor**) to make predictions based on historical data.
 * **Data Source:** Utilizes public datasets provided by the **Banco de la República** (Bank of the Republic) of Colombia.
-* **Web API:** A lightweight RESTful API built with **Flask** to serve the model's predictions.
 * **Data Preprocessing:** Handled by **Pandas** for cleaning, feature engineering, and preparing the data for the model.
 
 ### 🛠️ Technologies Used
